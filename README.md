@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div>
+<div style="display: flex; flex-direction: row;">
 
 <a href="https://app.daily.dev/SunD"><img src="https://api.daily.dev/devcards/8bb912bdca534503960b4078b495ceee.png?r=ltl" width="400" alt="SunD's Dev Card"/></a>
 
