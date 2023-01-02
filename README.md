@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<a href="https://app.daily.dev/SunD"><img src="https://api.daily.dev/devcards/8bb912bdca534503960b4078b495ceee.png?r=ltl" width="400" alt="SunD's Dev Card"/></a>
+
 <a href="https://app.daily.dev/sund"><img src="https://api.daily.dev/devcards/5aa7db5f274647a29972cac8b6c0c1c8.png?r=9i4" width="400" alt="SunD's Dev Card"/></a>
